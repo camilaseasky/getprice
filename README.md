@@ -1,4 +1,4 @@
-<img src="https://github.com/camilaseasky/getprice/blob/master/imgs/main.jpg" title="getPrice" alt="GetPrice">
+<img src="https://github.com/camilaseasky/getprice/blob/master/imgs/main.jpg" title="getPrice" alt="GetPrice" width="400px">
 
 
 
@@ -33,7 +33,7 @@ sem typescript para o acesso e gravação de dados no postgres
  5. Visualizar solicitação e a lista de produtos desta.
  6. Excluir produto de uma solicitação.
   
- Obs: O arquivo com as rotas para teste no Insominia está anexado a este repositório.
+ Se quiser baixar o json do Insominia para testar as rotas da aplicação clique <a href="https://github.com/camilaseasky/getprice/blob/master/Insomnia_2020-06-10.json">aqui</a>!
  
  ## :star: O aprendizado:
  Consegui realizar as operações no postgres para atender as funcionalidades da aplicação, usando o SEQUELIZE. Ele é bem diferente do 
