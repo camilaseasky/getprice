@@ -1,0 +1,12 @@
+ {
+    "username": "postgres",
+    "password": "docker",
+    "database": "getprice_database",
+    "host": "localhost",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "define": {
+      "timestamp": true,
+      "underscored": true
+    }
+}
